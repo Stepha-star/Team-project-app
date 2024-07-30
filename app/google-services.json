@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "577696071616",
+    "project_id": "notebook2-26fc5",
+    "storage_bucket": "notebook2-26fc5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577696071616:android:a7b3d89920a99661f11225",
+        "android_client_info": {
+          "package_name": "com.example.notebook2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkVGLiY9go-1ebQ1zFft7oJoqJQoG29vE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577696071616:android:0eb37ed55598be54f11225",
+        "android_client_info": {
+          "package_name": "com.example.pms"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkVGLiY9go-1ebQ1zFft7oJoqJQoG29vE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
